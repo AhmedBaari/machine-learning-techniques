@@ -1,0 +1,20 @@
+{
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": true,
+        "markdown": true,
+        "scminput": false,
+        "yaml": true,
+        "cpp": false,
+        "java": false,
+        "oraclesql": true,
+        "plsql": false,
+        "html": false,
+        "django-html": false,
+        "tcl": false,
+        "perl": false,
+        "javascript": false,
+        "awk": false,
+        "python": true
+    }
+}
